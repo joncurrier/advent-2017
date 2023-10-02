@@ -13,3 +13,5 @@ pom.xml.asc
 .nrepl-port
 .cpcache/
 .calva/output-window
+.clj-kondo/.cache
+.lsp/.cache
